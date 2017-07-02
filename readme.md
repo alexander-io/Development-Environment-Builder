@@ -5,7 +5,5 @@ As a front end developer, maybe you may save time using this script to create bo
 
 ### Usage
 First, ensure that you have node and npm installed and updated to the most recent stable version
-'''bash
-node --version
-npm --version
-'''
+'$ node --version'
+'$ npm --version'
