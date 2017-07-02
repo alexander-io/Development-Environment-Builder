@@ -7,14 +7,14 @@ cd public/
 mkdir js css images icons
 touch index.html
 # let's echo the contents of the basic html structure into the index.html file
+# link jquery, materialize-js, materialize-css
+# link materialize js
+# link materialize css
 echo "<html>" > index.html
 echo "  <head>" >> index.html
 echo '    <meta charset="utf-8">' >> index.html
-# link jquery
 echo '    <script src="js/jquery.js" type="text/javascript"></script>' >> index.html
-# link materialize js
 echo '    <script src="js/materialize.js" type="text/javascript"></script>' >> index.html
-# link materialize css
 echo '    <link rel="stylesheet" href="css/materialize.css">' >> index.html
 echo "  </head>" >> index.html
 echo "  <body>" >> index.html
