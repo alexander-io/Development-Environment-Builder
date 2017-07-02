@@ -1,9 +1,16 @@
 # Development Environment Builder
 ## Using Bash Scripting
 
-As a front end developer, maybe you may save time using this script to create boiler plate development environments that have a Node.js & Express back-end & the Materialize-CSS framework.
+As a front end developer, maybe you can save time using this script to create boiler a plate development environments that has a Node.js & Express back-end & the Materialize-CSS framework.
 
 This script will work on unix based systems. Or anything that will take Bash.
+
+### Core Dependencies
+#### [node js](https://nodejs.org/en/)
+#### [materialize-css](http://materializecss.com/)
+#### [npm](https://www.npmjs.com/)
+#### [express](https://expressjs.com/)
+#### [jQuery](https://jquery.com/)
 
 ### <Usage>
 First, ensure that you have node and npm installed and updated to the most recent stable version
