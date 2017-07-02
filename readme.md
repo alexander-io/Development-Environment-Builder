@@ -30,5 +30,5 @@ If all went according to plan, now fire up the server by issuing...
 
     $ node serve
 
-Now, visit your browser at localhost://8080, viola
+Now, visit your browser at localhost://8080, voila
 ## </Usage>
