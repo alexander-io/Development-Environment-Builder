@@ -1,4 +1,4 @@
-# Materialize Express Development Environment Builder
+# Development Environment Builder
 ## Using Bash Scripting
 
 As a front end developer, maybe you may save time using this script to create boiler plate development environments that have a Node.js & Express back-end & the Materialize-CSS framework.
